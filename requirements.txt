@@ -1,6 +1,11 @@
-yahooquery
-riskfolio
-yfinance
-st-gsheets-connection
-pandas
+streamlit
+streamlit-gsheets
 numpy
+matplotlib
+plotly
+yfinance
+riskfolio
+streamlit-option-menu
+pandas
+yahooquery
+yesg
