@@ -1,6 +1,6 @@
 yahooquery
 riskfolio
 yfinance
-GSheetsConnection
+st-gsheets-connection
 pandas
 numpy
